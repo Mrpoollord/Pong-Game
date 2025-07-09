@@ -11,7 +11,7 @@ Follow these steps to set up and play the game on your computer.
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pong-game.git
+   git clone https://github.com/Mrpoollord/Pong-Game.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -51,4 +51,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Have questions or suggestions? Reach me at [github.com/your-username](https://github.com/your-username).
+Have questions or suggestions? Reach me at [github.com/Mrpoollord](https://github.com/Mrpoolord).
