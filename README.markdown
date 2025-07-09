@@ -48,7 +48,7 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Mrpoollord/Pong-Game/blob/main/LICENSE)) file for details.
 
 ## Contact
 Have questions or suggestions? Reach me at [github.com/Mrpoollord](https://github.com/Mrpoolord).
